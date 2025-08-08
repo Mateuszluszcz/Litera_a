@@ -1,0 +1,14 @@
+C:\test\Litera a\bin\Debug\net8.0\Litera a.exe
+C:\test\Litera a\bin\Debug\net8.0\Litera a.deps.json
+C:\test\Litera a\bin\Debug\net8.0\Litera a.runtimeconfig.json
+C:\test\Litera a\bin\Debug\net8.0\Litera a.dll
+C:\test\Litera a\bin\Debug\net8.0\Litera a.pdb
+C:\test\Litera a\obj\Debug\net8.0\Litera a.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Litera a\obj\Debug\net8.0\Litera a.AssemblyInfoInputs.cache
+C:\test\Litera a\obj\Debug\net8.0\Litera a.AssemblyInfo.cs
+C:\test\Litera a\obj\Debug\net8.0\Litera a.csproj.CoreCompileInputs.cache
+C:\test\Litera a\obj\Debug\net8.0\Litera a.dll
+C:\test\Litera a\obj\Debug\net8.0\refint\Litera a.dll
+C:\test\Litera a\obj\Debug\net8.0\Litera a.pdb
+C:\test\Litera a\obj\Debug\net8.0\Litera a.genruntimeconfig.cache
+C:\test\Litera a\obj\Debug\net8.0\ref\Litera a.dll
